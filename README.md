@@ -21,4 +21,4 @@ The dataset to be used in this webinar is an Excel file named `sales_data_dirty.
 
 
 
-![alt](https://github.com/adelnehme/test/blob/master/image.png?raw=true)
+![alt](https://github.com/adelnehme/python-for-spreadsheet-users-webinar/blob/master/image.png?raw=True)
