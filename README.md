@@ -12,7 +12,7 @@ In most organizations across all industries, data fluency, technical skills and 
 
 * How to import Excel files into `pandas`.
 * Filter, add new columns, and explore DataFrames.
-* Apply common spreadsheets operations such as pivot tables and VLOOKUP in Python.
+* Apply common Excel operations such as pivot tables and VLOOKUP in Python.
 * Present data as visualizations using `matplotlib` and `seaborn`.
 
 The dataset to be used in this webinar is an Excel file named `sales_data_dirty.xlsx` - it contains 4 sheets, each containing the following columns:
