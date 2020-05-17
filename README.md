@@ -3,12 +3,12 @@
 </p>
 <br><br>
 
-## **How to transition from Spreadsheets to Python**
+## **Python for Excel Users live training**
 
 
-Welcome to this live, hands-on training where you will learn how to upgrade from being a spreadsheet user to using Python. 
+Welcome to this live, hands-on training where you will learn how to upgrade from being an Excel user to using Python. 
 
-In most organizations across all industries, data fluency, technical skills and a data-driven mindset are becoming sought after skills that drive organizational success in the digital age. This shift has spurred on the adoption of tools that go beyond spreadsheets, which allow for more robust data analysis, visualization and presentation. In this notebook, you will learn:
+In most organizations across all industries, data fluency, technical skills and a data-driven mindset are becoming sought after skills that drive organizational success in the digital age. This shift has spurred on the adoption of tools that go beyond Excel, which allow for more robust data analysis, visualization and presentation. In this notebook, you will learn:
 
 * How to import Excel files into `pandas`.
 * Filter, add new columns, and explore DataFrames.
